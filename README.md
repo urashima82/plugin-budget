@@ -47,7 +47,7 @@ This budget can be adjusted by adding a new entry with an effective date.
 
 ![Cost Breakdown](https://cloud.githubusercontent.com/assets/323546/20451619/9658c9ba-adc9-11e6-8dd9-97b7d01db7f2.png)
 
-Based on the subtask time tracking table and user information you can see the cost of each subtask.
+Based on the subtask table and user information you can see the cost of each subtask.
 
 The time spent is rounded to the nearest quarter.
 
